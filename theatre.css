@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(56, 12, 114);
+}
+h1 {
+    text-align: center;
+    font-family:'Pacifico', cursive;
+}
+h1:hover {
+    font-size: 300%;
+    color: gold;
+}
+.button1 { 
+    text-align: center;
+}
